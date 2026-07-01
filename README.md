@@ -1,10 +1,10 @@
-# 🌍 Thermal Twins: Urban Heat Mitigation Engine
+# 🌍 Thermal Trinity: Urban Heat Mitigation Engine
 
 ## 📌 The Problem
 Urban Heat Islands (UHI) severely impact public health and energy consumption in metropolitan areas like Kolkata. Traditional monitoring identifies heat but fails to offer predictive, actionable mitigation strategies.
 
 ## 🚀 Our Solution
-Thermal Twins is a spatial AI platform designed to simulate the thermodynamic impact of environmental interventions. By generating a synthetic, physics-informed climate matrix encompassing NDVI (vegetation) and NDBI (built-up density), our machine learning model predicts Land Surface Temperature (LST).
+Thermal Trinity is a spatial AI platform designed to simulate the thermodynamic impact of environmental interventions. By generating a synthetic, physics-informed climate matrix encompassing NDVI (vegetation) and NDBI (built-up density), our machine learning model predicts Land Surface Temperature (LST).
 
 ## ⚙️ Technical Architecture
 * **Data Engine:** Python, Pandas, Numpy (Physics-informed synthetic data generation)
