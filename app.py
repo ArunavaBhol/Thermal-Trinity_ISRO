@@ -5,9 +5,9 @@ import folium
 from streamlit_folium import st_folium
 
 # --- 1. Page Configuration & Narrative ---
-st.set_page_config(page_title="Thermal Twins | Urban Heat", page_icon="🌍", layout="wide")
+st.set_page_config(page_title="Thermal Trinity | Urban Heat", page_icon="🌍", layout="wide")
 
-st.title("🌍 Thermal Twins: Urban Heat Mitigation Engine")
+st.title("🌍 Thermal Trinity: Urban Heat Mitigation Engine")
 st.markdown("""
 Welcome to the predictive control center. This geospatial AI system allows policymakers 
 to identify severe urban heat hotspots in Kolkata and dynamically simulate the cooling impact 
